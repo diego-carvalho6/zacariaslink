@@ -9,14 +9,8 @@ I have skills with HTML, CSS, JavaScript, React, Redux, Code version control wit
 - 💞️ Ask me anything about Frontend
 - 📫 How to reach me omega.link.zd@gmail.com
 
-<img src="https://img.shields.io/badge/HTML5-passed-green"/>
-<img src="https://img.shields.io/badge/CSS3-passed-green" />
-<img src="https://img.shields.io/badge/GIT-passed-green" />
-<img src="https://img.shields.io/badge/JAVASCRIPT-passed-green" />
-<img src="https://img.shields.io/badge/TYPESCRIPT-passing-yellowgreen" />
-<img src="https://img.shields.io/badge/REACT-passing-yellowgreen" />
-<img src="https://img.shields.io/badge/NODE-passing-yellowgreen" />
-// <img src="" />
+<img src="https://img.shields.io/badge/HTML5-passed-green"/> <img src="https://img.shields.io/badge/CSS3-passed-green" /> <img src="https://img.shields.io/badge/GIT-passed-green" /> <img src="https://img.shields.io/badge/JAVASCRIPT-passed-green" /> <img src="https://img.shields.io/badge/TYPESCRIPT-passing-yellowgreen" /> <img src="https://img.shields.io/badge/REACT-passing-yellowgreen" /> <img src="https://img.shields.io/badge/NODE-passing-yellowgreen" />
+
 
 HTML5 -- CSS3 -- JavaScript -- React -- Node -- git
 
