@@ -10,5 +10,5 @@ I have skills with HTML, CSS, JavaScript, React, Redux, Code version control wit
 - 📫 How to reach me omega.link.zd@gmail.com
 
 
-HTML5 -- CSS3 -- JavaScript -- React -- node -- git
+HTML5 -- CSS3 -- JavaScript -- React -- Node -- git
 
